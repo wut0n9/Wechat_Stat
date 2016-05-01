@@ -20,7 +20,11 @@
     mongoexport -d wechatDB -c wechatcollection --type=csv -f content,reason_artile,artile_title -o wechat.csv
 
  获得赞票结果示例图1
+ 
+ 
  ![][2]
+
+
 送出赞票结果示例图2
 ![][3]
 
