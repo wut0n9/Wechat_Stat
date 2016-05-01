@@ -19,8 +19,12 @@
 
     mongoexport -d wechatDB -c wechatcollection --type=csv -f content,reason_artile,artile_title -o wechat.csv
 
- 
-
+ 获得赞票结果示例图1
+ ![][2]
+送出赞票结果示例图2
+![][3]
 
 
   [1]: https://testerhome.com/topics/4235
+  [2]: https://thumbnail0.baidupcs.com/thumbnail/b68d03141c28849862751a28ad418ca1?fid=3140684414-250528-1121194068944802&time=1462082400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-B0jcyV4DCIw6XHZWfhdgkk3QMz0=&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=2820248679566078781&dp-callid=0&size=c710_u400&quality=100
+  [3]: https://thumbnail0.baidupcs.com/thumbnail/5df32af97608be76f189831cb0bb53f4?fid=3140684414-250528-1075347750430459&time=1462082400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-5jZ5fKgdfrprvnpEcAvayVrRh70=&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=2820336956121788520&dp-callid=0&size=c710_u400&quality=100
